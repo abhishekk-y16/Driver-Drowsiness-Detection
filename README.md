@@ -51,7 +51,6 @@ Driver-Drowsiness-Detetction-System-main/
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Run
 
 ```bash
