@@ -59,7 +59,7 @@ python main.py
 
 Press `q` to exit the camera window.
 
-## How Drowsiness Is Detected
+## How Drowsiness Is Being  Detected
 
 1. Convert webcam frame to grayscale
 2. Detect face region
