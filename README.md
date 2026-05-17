@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection System (OpenCV Only)
+# Driver Drowsiness Detection System (OpenCV(Computer Vision Only)
 
 Driver Drowsiness Detection System is a lightweight, real-time webcam project that detects drowsiness with OpenCV Haar Cascades. It is intentionally simple and removes `dlib`, facial landmarks, and heavy deep-learning dependencies so it is easy to run, explain, and extend.
 
