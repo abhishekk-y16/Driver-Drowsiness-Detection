@@ -8,7 +8,7 @@ Driver Drowsiness Detection System is a lightweight, real-time webcam project th
 - Eye detection inside the detected face region
 - Simple frame-based drowsiness logic
 - Alert sound when the driver appears drowsy
-- On-screen status, counter, bounding boxes, and FPS
+- On-screen status, counter, bounding boxes, and FPS(Frame Per Second)
 
 ## How It Works
 
